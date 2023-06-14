@@ -1,0 +1,48 @@
+.container .jumbotron{
+    margin-top: 200px;
+    background: yellow;
+    color: white
+}
+body{
+    background-image: url(https://media.istockphoto.com/id/171309616/photo/green-grass-background.webp?b=1&s=170667a&w=0&k=20&c=lQvv2ndAtFpY4UCzeAUPAW3cGI_wpDHlK71CAi5O0_w=);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    color: white;
+    text-align: center;
+    background: red;
+}
+table,thead,th,tr,td{
+    color: yellow;
+    border: 2px white;
+    font-size: 20px;
+    margin: auto;
+    background: red;
+}
+thead,th{
+    color: white;
+    border: 2px white;
+    font-size: 20px;
+    margin: auto;
+    background: blue;
+}
+img{
+    height: 200px;
+    width: 30%;
+    float: left;
+    margin: 1.5%;
+    border: 2px red;
+}
+.imagesb
+{
+    border: 3px red;
+}
+
+table tr:nth-of-type(even)
+{
+    background: #f4c242;
+}
+p{
+    color: blue;
+}
